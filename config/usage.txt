@@ -1,0 +1,7 @@
+usage:
+gist [flags] <path-to-file> [id]
+
+The optional flags are:
+--login		Login and associate the gist with your GitHub account.
+--private	Make the gist private. Ignored if --login is not set.
+--patch		Edit an existing gist. The id of the existing gist must be provided.

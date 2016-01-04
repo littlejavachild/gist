@@ -1,0 +1,8 @@
+{
+	"api" : {
+		"create_gist" : "https://api.github.com/gists"
+	},
+	"limit" : {
+		"file_size" : 1
+	}
+}

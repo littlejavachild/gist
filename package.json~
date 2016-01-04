@@ -1,0 +1,25 @@
+{
+  "name": "gist",
+  "version": "0.0.1",
+  "description": "gist is a node-based command line utility to create gists",
+  "main": "gist.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "gist",
+    "git"
+  ],
+  "author": "Fasih Khatib",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "glob": "^6.0.2",
+    "minimist": "^1.2.0",
+    "path": "^0.12.7",
+    "prompt": "^0.2.14",
+    "q": "^1.4.1",
+    "request": "^2.67.0"
+  }
+}
